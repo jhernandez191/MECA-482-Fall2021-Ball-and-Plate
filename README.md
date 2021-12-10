@@ -6,4 +6,4 @@ For this porject a control system must be designed using Matlab, Simulink and Co
 
 ## Mathmatical Model
 Our ball and plate system can be represtned using Figure 1a and 1b below
-![](Figure1A1B.jpg) <br>
+
